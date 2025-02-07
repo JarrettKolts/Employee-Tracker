@@ -6,3 +6,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - I wanted to create a website that takes in employee data such as first name, last name, and salary in the form of user input and order the employees alphabetically by last name. I then wanted to run a lottery system that chooses a random employee from the given list.
 - In doing this I learned JavaScript functions, JSON objects, console logging, randomizing numbers, and accepting user input.
+
+# Images from website
+
+![Deployed Application Main Page](<img/Application1.png>)
+
+![Deployed Application Image Edit Page](<img/Application2.png>)
